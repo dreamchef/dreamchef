@@ -17,4 +17,4 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-dreamchef-blue?style=flat&logo=leetcode)](https://leetcode.com/dreamchef/) 
 ![Codewars](https://www.codewars.com/users/dreamchef/badges/small) 
 
-As a lifelong innovator, my goal is to advance the integration of Machine Cognition with Human Interfaces, so that everyone, from architect to scientist to operator, has access to the tools they need to learn, think, work, and play at their best and sharpest capability. Great thinking should be experienced!
+Hi! I'm Dani. As a lifelong innovator, my goal is to advance the integration of Machine Cognition with Human Interfaces, so that everyone, from architect to scientist to operator, has access to the tools they need to learn, think, work, and play at their best and sharpest capability. Great thinking should be experienced!
