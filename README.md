@@ -1,4 +1,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dani_lisle?style=social)](https://twitter.com/dani_lisle)
+[![Mastodon Follow](https://img.shields.io/badge/Mastodon-%40xDDDani-blue?style=flat&logo=mastodon)](https://mastodon.social/@xDDDani)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danilisle)
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Dani%20Lisle-orange.svg?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/23438083/dani-lisle)
