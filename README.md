@@ -1,7 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dani_lisle?style=social)](https://twitter.com/dani_lisle)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danilisle) 
+[![Hacker News](https://img.shields.io/badge/Hacker%20News-danilisle-yellow?style=flat&logo=ycombinator)](https://news.ycombinator.com/user?id=danilisle)
 
-[![Hacker News](https://img.shields.io/badge/Hacker%20News-danilisle-yellow?style=flat&logo=ycombinator)](https://news.ycombinator.com/user?id=danilisle) 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Dani%20Lisle-orange.svg?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/23438083/dani-lisle)
 [![Cross Validated](https://img.shields.io/badge/Cross%20Validated-Dani%20Lisle-green?style=flat&logo=stack-exchange)](https://stats.stackexchange.com/users/406943/dani-lisle)
 [![Meta Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-Dani%20Lilsle-orange?style=flat&logo=stack-exchange)](https://meta.stackexchange.com/users/1470142/dani-lilsle)
