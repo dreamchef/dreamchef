@@ -8,6 +8,8 @@
 [![Hacker News](https://img.shields.io/badge/Hacker%20News-danilisle-yellow?style=flat&logo=ycombinator)](https://news.ycombinator.com/user?id=danilisle)
 [![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-danilisle74-black?style=flat&logo=medium)](https://medium.com/@danilisle74)
 [![OpenAI Community](https://img.shields.io/badge/OpenAI%20Community-xdddani-blue?style=flat&logo=openai)](https://community.openai.com/u/xdddani/summary)
+[![Dev.to](https://img.shields.io/badge/Dev.to-xdddani-blue?style=flat&logo=dev.to)](https://dev.to/xdddani)
+
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-danilisle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/danilisle)
 [![HackerRank](https://img.shields.io/badge/HackerRank-danilisle74-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/danilisle74) 
