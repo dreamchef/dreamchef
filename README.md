@@ -10,3 +10,5 @@
 [![OpenAI Community](https://img.shields.io/badge/OpenAI%20Community-xdddani-blue?style=flat&logo=openai)](https://community.openai.com/u/xdddani/summary)
 
 Hi! I'm Dani. As a lifelong innovator, my goal is to advance the integration of Machine Cognition with Human Interfaces, so that everyone, from architect to scientist to operator, has access to the tools they need to learn, think, work, and play at their best and sharpest capability. Great thinking should be experienced!
+
+Currently, I'm doing research for a model matching mental health patients to optimal (highest remission likelihood) treatment methodologies! Update soon to come on Towards Data Science.
