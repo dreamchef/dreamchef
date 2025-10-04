@@ -7,4 +7,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-danilisle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/danilisle)
 [![HackerRank](https://img.shields.io/badge/HackerRank-danilisle74-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/danilisle74)
 
-Hi! I'm Dani. As a lifelong innovator, my goal is to advance the integration of Machine Cognition with Human Interfaces, so that everyone, from architect to scientist to operator, has access to the tools they need to learn, think, work, and play at their best and sharpest capability. Great thinking should be experienced!
+Hi! I'm Dani. Rigth now, I'm intersted in apps that generatively self-modify during runtime, and persona models for improving agentic assistants.
