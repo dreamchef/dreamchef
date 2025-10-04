@@ -7,4 +7,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-danilisle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/danilisle)
 [![HackerRank](https://img.shields.io/badge/HackerRank-danilisle74-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/danilisle74)
 
-Hi! I'm Dani. Rigth now, I'm intersted in apps that generatively self-modify during runtime, and persona models for improving agentic assistants.
+Hi! I'm Dani. Rigth now, I'm interested in apps that generatively self-modify during runtime, and persona models for improving agentic assistants.
